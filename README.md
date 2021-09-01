@@ -1,4 +1,4 @@
-<h1>👋 Welcome to Rubicon's Crypto Sheets Repo</h1>
+<h1>👋 Welcome to Rubicon's Crypto Sheets</h1>
 
 <h2>This repo was established for:</h2>
 <h3>
