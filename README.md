@@ -20,6 +20,7 @@ This simple automated spreadsheet will help track trades and show you in compari
 
 <h4><a href="https://github.com/rubicons-crypto-sheets/rubicons-crypto-sheets/blob/main/Rubicon's%20Portfolio%20Tracker.pdf" target="_blank">Portfolio Tracker</a></h4>
 "Portfolio Tracker" is a customizable framework to build your own automated crypto portfolio tracker developed by rubicon to help you stay on track. It is based on the philosophy that humans are visual creatures and looking at numbers just isn't the same as visualized data.<br />
+<br />
 <img src="https://puu.sh/I8S9p/f316168ab6.png" />
 <br />
 <br />
