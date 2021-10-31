@@ -17,8 +17,8 @@
 This simple automated spreadsheet will help track trades and show you in comparisson of the required trades to make a Million Dollars at 10% per trade. You don't have to feel compelled to trade every day or do 10% on any day or start with 10 or 10,000 dollars. It can be totally customized but is based off a multiple of 10. To change from a starting point of $100 to $1,000, just edit the A1 cell on the 'CALCULATIONS' tab. Everything will be recalculated automatically.
 <br />
 <br />
-<h4><a href="" target="_blank">Portfolio Tracker</a></h4>
-coming soon...
+<h4><a href="https://github.com/rubicons-crypto-sheets/rubicons-crypto-sheets/blob/main/Rubicon's%20Portfolio%20Tracker.pdf" target="_blank">Portfolio Tracker</a></h4>
+"Portfolio Tracker" is a customizable framework to build your own automated crypto portfolio tracker developed by rubicon to help you stay on track. It is based on the philosophy that humans are visual creatures and looking at numbers just isn't the same as visualized data.
 <br />
 <br />
 
